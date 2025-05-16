@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atika Sultana</h1>
-<h3 align="center">From Bangladesh. Eager to learn and explore software testing fields.</h3>
+<h3 align="center">From Bangladesh. Eager to learn and explore software fields.</h3>
 
-- 🌱 I’m currently learning **Java and Selenium**
+- 🌱 I’m currently learning **Python, Pandas, Numpy and Data Science**
 
-- 👯 I’m looking to collaborate on **manual and automation testing projects**
+- 🚀 Eager to contribute to impactful and innovative technology projects
 
 - 💬 Ask me about **web and AI technologies**
 
